@@ -1,0 +1,499 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.isi {
+    margin-top: 50px;
+  }
+  
+.Group-1 {
+    width: 229px;
+    height: 68px;
+    display: block;
+  }
+  
+.Daftarkan {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #c50e04;
+    margin-top: 80px;
+    margin-bottom: 0;
+  }
+  
+.Masukkan {
+    font-family: 'Poppins', sans-serif;;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: var(--warna-tulisan);
+  }
+
+.Group-3 {
+    margin-top: 50px;
+    width: 486px;
+    height: 262px;
+}
+.text1 {
+    width: 138px;
+    height: 60px;
+    font-family: 'Poppins', sans-serif;;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: red;
+  }
+
+.text2{
+
+    width: 138px;
+    height: 60px;
+    font-family: 'Poppins', sans-serif;;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: red;
+}
+
+.button-masuk {
+    background: #f43b31 !important;
+  color: white !important;
+  width: 386px;
+  height: 60px;
+  border-radius: 5px;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 16p !important;
+  font-weight: 600 !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+}
+
+.button-forget {
+  position: relative;
+  left: 138px;
+  background: #f43b31 !important;
+  color: white !important;
+  width: 386px;
+  height: 60px;
+  border-radius: 5px;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 16p !important;
+  font-weight: 600 !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+}
+
+
+.Rectangle-1 {
+    font-size: 18px !important;
+    font-weight: 300 !important;
+    width: 386px !important;
+    height: 50px !important;
+  }
+
+.Rectangle-forget {
+    position: relative;
+    left: 138px;
+    font-size: 18px !important;
+    font-weight: 300 !important;
+    width: 386px !important;
+    height: 50px !important;
+}
+
+.form-bawah {
+    width: 386px !important;
+    margin: 0 !important;
+  }
+
+.forget-password {
+    color: #c50e04;
+    text-decoration: none;
+}
+.ATAU {
+  font-family: 'Poppins', sans-serif;;
+  font-size: 18px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color:#3c3c3c;
+  font-weight: bold;
+}
+
+.check-input {
+    position: relative;
+    left: 25px;
+    width: 334px;
+  height: 35px;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  color: black;
+}
+
+.fab {
+    position: relative;
+    right: 20px;
+}
+
+.text-masuk {
+    position: relative;
+    right: 10px;
+}
+
+test1 {
+  margin-bottom: 100px;
+}
+
+body.forgetpassword {
+  color:red;
+}
+
+.Group-2 {
+  position: relative;
+  left: 443px;
+  width: 350px;
+  height: 100px;
+  display: block;
+}
+
+.lupapassword {
+  position: relative;
+  left: 195px;
+  width: 488px;
+height: 60px;
+font-family: Poppins;
+font-size: 32px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #3c3c3c;
+}
+
+.lupapassword2 {
+  text-align: center;
+  position: relative;
+  left: 90px;
+  bottom: 20px;
+  width: 452px;
+  height: 54px;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7c7c7c;
+}
+
+.containerforget {
+  position: relative;
+  left: 220px;
+  background-color: white;
+  width: 800px;
+  height: 440px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.containerverif {
+  position: relative;
+  left: 220px;
+  background-color: white;
+  width: 800px;
+  height: 440px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.verificon {
+    position: relative;
+    bottom: 30px;
+    left: 300px;
+    width: 66px;
+    height: 66px;
+    display: block;
+}
+
+.verifikasi {
+position: relative;
+  left: 240px;
+font-family: Poppins;
+font-size: 40px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: normal;
+letter-spacing: normal;
+color: #3c3c3c;
+}
+
+.verifikasi1 {
+  text-align: center;
+  position: relative;
+  right: 10px;
+   font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7c7c7c;
+  }
+
+  .paragrafverif {
+    font-weight: bold;
+  }
+
+  .verifsuccess {
+    position: relative;
+    left: 50px;
+    font-family: Poppins;
+    font-size: 40px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #3c3c3c;
+    }
+    
+    .verifsuccess1 {
+      text-align: center;
+      position: relative;
+      right: 10px;
+       font-family: Poppins;
+      font-size: 18px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: normal;
+      letter-spacing: normal;
+      color: #7c7c7c;
+      }
+
+.button-verif{
+  background: #f43b31 !important;
+  position: relative;
+  left: 130px;
+  top: 30px;
+  color: white !important;
+  width: 386px;
+  height: 60px;
+  border-radius: 5px;
+  font-family: 'Poppins', sans-serif;;
+  font-size: 16p !important;
+  font-weight: 600 !important;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.02px;
+}
+
+.forgetsuccess {
+  text-align: center;
+  position: relative;
+  right: 15px;
+   font-family: Poppins;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #7c7c7c;
+
+}
+
+.reset {
+  position: relative;
+  left: 20px;
+  top: 100px;
+  background-color: white;
+  width: 1200px;
+  height: 440px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.reset1 {
+  position: relative;
+  right: 70px;
+  bottom: 310px;
+  background-color: white;
+  width: 200px;
+  height: 440px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.ganti-password {
+  position: relative;
+  left: 180px;
+  width: 252px;
+  height: 48px;
+  font-family: Poppins;
+  font-size: 32px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: red;
+}
+  
+.ganti-password1 {
+  position: relative;
+  left:450px;
+  top: 50px;
+  width: 408px;
+  height: 42px;
+  font-family: Poppins;
+  font-size: 14px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: gray;
+}
+
+.Rectangle-reset {
+    position: relative;
+    left: 430px;
+    top: 50px;
+    width: 386px;
+    height: 50px;
+    border-radius: 5px;
+    border: solid 1px #c4c4c4;
+    background-color: var(--white);
+}
+
+.Rectangle-reset1 {
+    position: relative;
+    left: 430px;
+    top: 40px;
+    width: 384px;
+    height: 60px;
+    border-radius: 5px;
+    background-color: var(--merah);
+}
+
+.Rectangle-update-donasi {
+    position: absolute;
+    width: 1200px;
+    height: 130px;
+    border-radius: 20px;
+    border: solid 1px #d4d4d4;
+    background-color: #fbfaf4;
+}
+
+/* start footer ********************************************************* */
+
+footer {
+  color: white;
+  padding-top: 40px;
+  background-color: #d7433b;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul.list {
+  list-style: none;
+  display: inline;
+  margin-left: 0;
+  padding: 0;
+}
+
+ul.list li i.fas {
+  font-size: 20px;
+  padding: 10px 6px 0px 0;
+}
+
+
+.copyright {
+
+  background-color: #c50e04;
+  color: white;
+  padding: 7px 7px;
+}
+
+.social-network {
+  color: white;
+}
+
+ul.social-network {
+  list-style: none;
+  display: inline;
+  margin-left: 0 !important;
+  padding: 0;
+}
+
+ul.social-network li {
+  display: inline;
+  margin: 0 10px;
+}
+
+ul.social-network li a {
+  color: white;
+  font-size: 29px;
+}
+
+ul.social-network li a.btn-twitter:hover {
+  color: #1DA1F2;
+}
+
+ul.social-network li a.btn-facebook:hover {
+  color: #4267B2;
+}
+
+ul.social-network li a.btn-instagram:hover {
+  color: #833AB4;
+}
+
+.footer1 {
+  position: relative;
+  top: 500px;
+}
+
+.footer2 {
+  position: relative;
+  top: 300px;
+}
+
+/* endfooter ---------------------------------------------------------------*/
